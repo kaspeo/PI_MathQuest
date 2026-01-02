@@ -25,8 +25,6 @@ Gra nie wymaga instalacji.
 
 > **Ważne:** Pliki `MathQuest.exe` i `MathQuest.pck` muszą znajdować się w tym samym folderze. Nie rozdzielaj ich po rozpakowaniu.
 
-> **Uwaga:** Jeśli system Windows wyświetli komunikat SmartScreen ("System Windows ochronił ten komputer"), kliknij **"Więcej informacji"**, a następnie **"Uruchom mimo to"**. Jest to standardowy komunikat dla aplikacji studenckich bez komercyjnego podpisu cyfrowego.
-
 ---
 **Autor:** Kacper Krawczyk
 **Promotor:** dr hab. inż. Marta Łabuda

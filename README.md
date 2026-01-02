@@ -14,7 +14,7 @@ Wcielasz się w inżyniera w bazie na Marsie. Twoim zadaniem jest naprawa uszkod
 * Interpolacja i aproksymacja
 * Całkowanie numeryczne
 
-## 📥 Jak pobrać i zagrać?
+## Jak pobrać i zagrać?
 
 Gra nie wymaga instalacji.
 

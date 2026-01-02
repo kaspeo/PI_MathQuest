@@ -14,20 +14,20 @@ Wcielasz się w inżyniera w bazie na Marsie. Twoim zadaniem jest naprawa uszkod
 * Interpolacja i aproksymacja
 * Całkowanie numeryczne
 
-### Krok 1: Pobieranie
-1. Kliknij zielony przycisk **<> Code** u góry tej strony.
-2. Wybierz opcję **Download ZIP**.
-3. Zapisz plik na dysku.
+## 📥 Jak pobrać i zagrać?
 
-### Krok 2: Uruchomienie
-1. Rozpakuj pobrane archiwum ZIP.
-2. Wejdź do rozpakowanego folderu.
-3. Uruchom plik **`MathQuest.exe`**.
+Gra nie wymaga instalacji.
 
-> **Ważne:** Aby gra działała, plik `MathQuest.pck` musi znajdować się w tym samym folderze co plik `.exe`. Nie przenoś samego pliku `.exe` w inne miejsce!
+1. Przejdź do sekcji **[Releases / Wydania](https://github.com/kaspeo/PI_MathQuest/releases/latest)** (po prawej stronie ekranu).
+2. W sekcji **Assets** kliknij plik **`MathQuest_v1.0.zip`**, aby go pobrać.
+3. Rozpakuj pobrane archiwum ZIP w dowolnym folderze.
+4. Uruchom plik **`MathQuest.exe`**.
 
-> **Uwaga:** Jeśli system Windows wyświetli komunikat o zabezpieczeniach , kliknij **"Więcej informacji"** a następnie **"Uruchom mimo to"**.
+> **Ważne:** Pliki `MathQuest.exe` i `MathQuest.pck` muszą znajdować się w tym samym folderze. Nie rozdzielaj ich po rozpakowaniu.
 
+> **Uwaga:** Jeśli system Windows wyświetli komunikat SmartScreen ("System Windows ochronił ten komputer"), kliknij **"Więcej informacji"**, a następnie **"Uruchom mimo to"**. Jest to standardowy komunikat dla aplikacji studenckich bez komercyjnego podpisu cyfrowego.
+
+---
 **Autor:** Kacper Krawczyk
 **Promotor:** dr hab. inż. Marta Łabuda
 **Silnik:** Godot Engine 4.5

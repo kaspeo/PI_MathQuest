@@ -14,16 +14,19 @@ Wcielasz się w inżyniera w bazie na Marsie. Twoim zadaniem jest naprawa uszkod
 * Interpolacja i aproksymacja
 * Całkowanie numeryczne
 
-## Jak pobrać i zagrać?
-Gra nie wymaga instalacji.
+### Krok 1: Pobieranie
+1. Kliknij zielony przycisk **<> Code** u góry tej strony.
+2. Wybierz opcję **Download ZIP**.
+3. Zapisz plik na dysku.
 
-1. Przejdź do sekcji **[Releases](https://github.com/kaspeo/PI_MathQuest/releases)** (po prawej stronie).
-2. Pobierz najnowszy plik `.zip`.
-3. Rozpakuj archiwum w dowolnym folderze.
-4. Uruchom plik **`MathQuest.exe`**.
+### Krok 2: Uruchomienie
+1. Rozpakuj pobrane archiwum ZIP.
+2. Wejdź do rozpakowanego folderu.
+3. Uruchom plik **`MathQuest.exe`**.
+
+> **Ważne:** Aby gra działała, plik `MathQuest.pck` musi znajdować się w tym samym folderze co plik `.exe`. Nie przenoś samego pliku `.exe` w inne miejsce!
 
 > **Uwaga:** Jeśli system Windows wyświetli komunikat o zabezpieczeniach , kliknij **"Więcej informacji"** a następnie **"Uruchom mimo to"**.
-
 
 **Autor:** Kacper Krawczyk
 **Promotor:** dr hab. inż. Marta Łabuda
